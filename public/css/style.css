@@ -139,6 +139,7 @@ body {
     border: none;
     outline: none;
     opacity: 0.5;
+    cursor: pointer;
 }
 
 .pre-btn:hover,
